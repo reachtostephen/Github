@@ -1,1 +1,2 @@
-This is a new Repository for GIT
+This is Branch 2 for this repository
+
